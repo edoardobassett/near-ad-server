@@ -7,7 +7,7 @@ Install the dependencies and start the server.
 
 ```sh
 git clone https://github.com/edoardobassett/near-ad-server.git
-cd near-ad-server/api
+cd near-adserver/api
 npm install
 node index.js
 ```
@@ -15,7 +15,7 @@ node index.js
 In another terminal :
 
 ```sh
-cd near-ad-server/website
+cd near-adserver/website
 npm install
 npm run dev
 ```
